@@ -1,4 +1,15 @@
 body {
-    background-color: red;
-    color: blue;
+    background-color: blue;
+}
+
+.wapper {
+    background-color: grey;
+}
+
+.jobbkep{
+  text-align: justify; 
+}
+
+#jobb{
+    float: right;
 }
